@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/oingrid11o/FDP/issues"
   },
-  "homepage": "https://github.com/oingrid11o/FDP#readme"
+  "homepage": "https://github.com/oingrid11o/FDP#readme",
+  "dependencies": {
+    "functional-light": "^0.3.1"
+  }
 }
